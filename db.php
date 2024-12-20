@@ -1,7 +1,7 @@
 <?php
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=192.168.1.3:3306;dbname=db_toko',
+    'dsn' => 'mysql:host=10.80.2.106:3306;dbname=db_toko',
     'username' => 'pawestriwahyuning', 
     'password' => '12345',
     'charset' => 'utf8',
